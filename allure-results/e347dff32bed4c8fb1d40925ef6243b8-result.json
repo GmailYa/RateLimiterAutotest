@@ -1,0 +1,108 @@
+{
+  "uuid": "61513dd9-35a8-48cd-919c-03b85a1d3521",
+  "labels": [],
+  "links": [],
+  "name": "Проверка цикла Retry",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SequenceRepeatInTime",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775111253405,
+      "stop": 1775111497070
+    },
+    {
+      "name": "SequenceOrchObject",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775111497136,
+      "stop": 1775111918026
+    },
+    {
+      "name": "RepeatInTimes",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775111918133,
+      "stop": 1775111978821
+    },
+    {
+      "name": "OrchObject",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775111978891,
+      "stop": 1775112099802
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "RepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "SequenceRepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "iterationConst",
+      "excluded": false
+    },
+    {
+      "name": "listNameTests",
+      "excluded": false
+    },
+    {
+      "name": "currentTest",
+      "excluded": false
+    },
+    {
+      "name": "AllureFolder",
+      "excluded": false
+    },
+    {
+      "name": "item",
+      "excluded": false
+    },
+    {
+      "name": "_Workflow",
+      "excluded": false
+    }
+  ],
+  "start": 1775111253281,
+  "stop": 1775112099810
+}

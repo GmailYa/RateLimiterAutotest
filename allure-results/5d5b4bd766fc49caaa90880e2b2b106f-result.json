@@ -1,0 +1,122 @@
+{
+  "uuid": "e2972a24-081c-4a8f-8af8-54524e117108",
+  "labels": [],
+  "links": [],
+  "name": "Проверка цикла ForeachForDataTable",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SequenceRepeatInTime",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775105623518,
+      "stop": 1775105904691
+    },
+    {
+      "name": "SequenceOrchObject",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "C# Script ---- A task was canceled."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-080004.png",
+          "source": "2804628c-ad65-4cc8-a883-6da7b8f49457-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775105904692,
+      "stop": 1775106005755
+    },
+    {
+      "name": "RepeatInTimes",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775106005771,
+      "stop": 1775106166441
+    },
+    {
+      "name": "OrchObject",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "C# Script ---- Оркестратор вернул ощибку https://10.0.0.122:44392/api/Version <html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.22.1</center>\r\n</body>\r\n</html>\r\n. Status code - BadGateway"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-080355.png",
+          "source": "af2fd665-f791-4ddc-8fdd-47bb2b34b37c-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775106166442,
+      "stop": 1775106236744
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "RepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "SequenceRepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "iterationConst",
+      "excluded": false
+    },
+    {
+      "name": "listNameTests",
+      "excluded": false
+    },
+    {
+      "name": "currentTest",
+      "excluded": false
+    },
+    {
+      "name": "AllureFolder",
+      "excluded": false
+    },
+    {
+      "name": "item",
+      "excluded": false
+    },
+    {
+      "name": "_Workflow",
+      "excluded": false
+    }
+  ],
+  "start": 1775105623517,
+  "stop": 1775106236768
+}

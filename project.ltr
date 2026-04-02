@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/While.ltw</Key>
+            <Value>51be143d-96c2-492c-8d64-4fe242349074</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/While.ltw</Key>
+            <Value>037e1e41-0bf4-48d9-bf97-7a57d54bc157</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/WhileTest.ltw</Key>
+            <Value>f8bf59b1-b8ae-425e-8fa5-b02c8608c863</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/ComparerRiteLimiterResult.ltw</Key>
+            <Value>a3e7b6dc-0cce-410b-90d3-85c9e6182435</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/WhileTest - Копия.ltw</Key>
+            <Value>ddb918e5-2062-47a7-859c-b98bd450a94b</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Test/ForeachForDataTable.ltw</Key>
+            <Value>bdff1817-5ccf-45f8-9051-51966ce0915a</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/temp.ltw</Key>
+            <Value>eaaf263d-04ce-4475-b460-6e95c69bfdad</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Test/Retry.ltw</Key>
+            <Value>67e0297b-8105-4af6-a180-02f6b221bec0</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/ScriptPool/ComparerRiteLimiterResult.ltw</Key>
+            <Value>99d82e84-6ce5-4c20-9e1d-1b84071e6a70</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/ScriptPool/ComparerRiteLimiterResult.ltw</Key>
+            <Value>a3e7b6dc-0cce-410b-90d3-85c9e6182435</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Test/RepeatNTimes.ltw</Key>
+            <Value>f23f1611-0f2a-45b7-97cf-349c54f2d16a</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/WhileTest.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/ComparerRiteLimiterResult.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/oldWhile.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/WhileTest - Копия.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Foreach.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Do-While.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/While.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Do-WhileMain.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Test/Foreach.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/ForeachMain .ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/temp.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Test/Retry.ltw</string>
+        <string>/home/user_1/Primo/ProjectOrc/Git/RateLimiter/Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

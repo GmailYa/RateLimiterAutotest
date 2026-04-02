@@ -1,0 +1,136 @@
+{
+  "uuid": "76ecc77a-94d2-4813-a905-b28f5be9b32b",
+  "labels": [],
+  "links": [],
+  "name": "Проверка цикла Retry",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SequenceRepeatInTime",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Исключение ---- RateLimiter не отработал SequenceRepeatInTime"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-095121.png",
+          "source": "0b18e366-06f6-4c8a-8e20-8a1b21c338a7-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775112676085,
+      "stop": 1775112682094
+    },
+    {
+      "name": "SequenceOrchObject",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Исключение ---- RateLimiter не отработал SequenceOrchObject"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-095123.png",
+          "source": "de09ebd4-88ae-480c-bb53-85d111177378-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775112682227,
+      "stop": 1775112684983
+    },
+    {
+      "name": "RepeatInTimes",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Исключение ---- RateLimiter не отработал RepeatInTimes"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-095127.png",
+          "source": "d0fe1719-e636-4c79-aa4d-28337c37682f-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775112685200,
+      "stop": 1775112688321
+    },
+    {
+      "name": "OrchObject",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Исключение ---- RateLimiter не отработал OrchObject"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-095129.png",
+          "source": "c3ba2570-1ffa-4fd3-bad0-5be4cfe100f5-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775112688424,
+      "stop": 1775112690402
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "RepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "SequenceRepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "iterationConst",
+      "excluded": false
+    },
+    {
+      "name": "listNameTests",
+      "excluded": false
+    },
+    {
+      "name": "currentTest",
+      "excluded": false
+    },
+    {
+      "name": "AllureFolder",
+      "excluded": false
+    },
+    {
+      "name": "item",
+      "excluded": false
+    },
+    {
+      "name": "_Workflow",
+      "excluded": false
+    }
+  ],
+  "start": 1775112675967,
+  "stop": 1775112690431
+}

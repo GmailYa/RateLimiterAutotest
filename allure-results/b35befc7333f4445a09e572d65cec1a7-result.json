@@ -1,0 +1,122 @@
+{
+  "uuid": "04e72237-85f6-4a4e-bccf-3719f1b6b3be",
+  "labels": [],
+  "links": [],
+  "name": "Проверка цикла Do-While",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SequenceRepeatInTime",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775103690585,
+      "stop": 1775103974028
+    },
+    {
+      "name": "SequenceOrchObject",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "C# Script ---- A task was canceled."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-072754.png",
+          "source": "caab4a57-edfd-4092-9319-bfcd2871798d-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775103974107,
+      "stop": 1775104075222
+    },
+    {
+      "name": "RepeatInTimes",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "start": 1775104075368,
+      "stop": 1775104235995
+    },
+    {
+      "name": "OrchObject",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "C# Script ---- A task was canceled."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "ExceptionScreenshot-02042026-073216.png",
+          "source": "34f44979-7b8f-40ce-9e3e-1f9f7ef2c8cc-attachment.png",
+          "type": "image/jpeg"
+        }
+      ],
+      "start": 1775104236091,
+      "stop": 1775104337110
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "RepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "SequenceRepeatInTimes1",
+      "excluded": false
+    },
+    {
+      "name": "iterationConst",
+      "excluded": false
+    },
+    {
+      "name": "listNameTests",
+      "excluded": false
+    },
+    {
+      "name": "currentTest",
+      "excluded": false
+    },
+    {
+      "name": "AllureFolder",
+      "excluded": false
+    },
+    {
+      "name": "item",
+      "excluded": false
+    },
+    {
+      "name": "_Workflow",
+      "excluded": false
+    }
+  ],
+  "start": 1775103690488,
+  "stop": 1775104337130
+}

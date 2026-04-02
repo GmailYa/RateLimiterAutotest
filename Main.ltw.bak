@@ -1799,7 +1799,7 @@
                                                     <ScriptVariable>
                                                         <Name>OrchObject</Name>
                                                         <Group />
-                                                        <DefaultValue xsi:type="xsd:string" />
+                                                        <DefaultValue xsi:type="xsd:string">"The number of iterations is a multiple of the RateLimiter"</DefaultValue>
                                                         <DataTypeString>System.String</DataTypeString>
                                                         <Direction>IN</Direction>
                                                     </ScriptVariable>
@@ -1834,7 +1834,7 @@
                                                     <ScriptVariable>
                                                         <Name>testCaseName</Name>
                                                         <Group />
-                                                        <DefaultValue xsi:type="xsd:string">"The number of iterations is a multiple of the RateLimiter"</DefaultValue>
+                                                        <DefaultValue xsi:type="xsd:string" />
                                                         <DataTypeString>System.String</DataTypeString>
                                                         <Direction>IN</Direction>
                                                     </ScriptVariable>
@@ -2064,7 +2064,7 @@
                                                     <ScriptVariable>
                                                         <Name>OrchObject</Name>
                                                         <Group />
-                                                        <DefaultValue xsi:type="xsd:string" />
+                                                        <DefaultValue xsi:type="xsd:string">"The number of iterations is less than the RateLimiter"</DefaultValue>
                                                         <DataTypeString>System.String</DataTypeString>
                                                         <Direction>IN</Direction>
                                                     </ScriptVariable>
@@ -2099,7 +2099,7 @@
                                                     <ScriptVariable>
                                                         <Name>testCaseName</Name>
                                                         <Group />
-                                                        <DefaultValue xsi:type="xsd:string">"The number of iterations is less than the RateLimiter"</DefaultValue>
+                                                        <DefaultValue xsi:type="xsd:string" />
                                                         <DataTypeString>System.String</DataTypeString>
                                                         <Direction>IN</Direction>
                                                     </ScriptVariable>
